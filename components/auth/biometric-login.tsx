@@ -76,7 +76,7 @@ export function BiometricLogin({ onSuccess }: BiometricLoginProps) {
               <Brain className="w-10 h-10 text-white" />
             </div>
             <h1 className="text-2xl font-bold text-foreground">
-              AETHER<span className="text-primary">.AI</span>
+              Rakshak<span className="text-primary">AI</span>
             </h1>
             <p className="text-sm text-muted-foreground mt-1">Digital Nervous System of Maharashtra</p>
           </motion.div>
