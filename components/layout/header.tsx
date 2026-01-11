@@ -26,7 +26,7 @@ export function Header() {
           </motion.div>
           <div>
             <h1 className="text-lg font-bold text-foreground tracking-tight">
-              AETHER<span className="text-primary">.AI</span>
+              Rakshak<span className="text-primary">AI</span>
             </h1>
             <p className="text-[10px] text-muted-foreground uppercase tracking-widest">Digital Nervous System</p>
           </div>
